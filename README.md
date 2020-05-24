@@ -1,4 +1,4 @@
-# infinitePageJS
+# Readme
 infinite page JAVASCRIPT
 
 # install

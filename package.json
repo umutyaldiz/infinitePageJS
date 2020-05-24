@@ -8,7 +8,15 @@
     "publish": "webpack-dev-server --output-public-path=/dev/",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umutyaldiz/infinitePageJS.git"
+  },
+  "author": "Umut Yaldız",
+  "bugs": {
+    "url": "https://github.com/umutyaldiz/infinitePageJS/issues"
+  },
+  "homepage": "https://github.com/umutyaldiz/infinitePageJS#readme",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.9.6",
